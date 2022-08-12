@@ -1,0 +1,146 @@
+### Step 2A
+
+/Users/sooyoo
+
+### Step 2B
+sooyoo@Soos-MBP desktop % 
+
+### Step 2C
+sooyoo@Soos-MBP unit1-git-practice % 
+
+
+### Step 2D
+/Users/sooyoo/desktop/unit1-git-practice
+
+
+### Step 2E
+Applications	Volumes		etc		sbin
+Library		bin		home		tmp
+System		cores		opt		usr
+Users		dev		private		var
+
+### Step 2F
+My-steps.txt
+
+### Step 2G
+zsh: permission denied: /
+
+
+### Step 2H
+zsh: permission denied: /
+
+### Step 2I
+my-steps.txt
+
+### Step 2J
+zsh: permission denied: /
+
+### Step 2K
+/Users/sooyoo/desktop/unit1-git-practice
+
+### Step 3A
+sooyoo@Soos-MBP unit1-git-practice % ls
+desserts	meats		my-steps.txt	veggies
+
+
+### Step 3B
+sooyoo@Soos-MBP unit1-git-practice % ls
+meats		my-steps.txt	sweets		veggies
+
+### Step 3C
+sooyoo@Soos-MBP desktop % cd proteins
+
+
+### Step 3D
+
+sooyoo@Soos-MBP desktop % cd proteins
+sooyoo@Soos-MBP proteins % 
+
+### Step 3E
+sooyoo@Soos-MBP desktop % cd unit1-git-practice
+sooyoo@Soos-MBP unit1-git-practice % cd veggies
+sooyoo@Soos-MBP veggies % 
+sooyoo@Soos-MBP unit1-git-practice % cd veggies
+sooyoo@Soos-MBP veggies % cat > carrot.txt 
+sooyoo@Soos-MBP veggies % cat > pea.txt 
+### Step 3F
+sooyoo@Soos-MBP ~ % pwd
+/Users/sooyoo
+sooyoo@Soos-MBP ~ % cd
+sooyoo@Soos-MBP ~ % cd desktop
+sooyoo@Soos-MBP desktop % cd unit1-git-practice
+sooyoo@Soos-MBP unit1-git-practice % cd sweets
+sooyoo@Soos-MBP sweets % Linux: $ cat > cookie.txt
+zsh: command not found: Linux:
+sooyoo@Soos-MBP sweets % $ cat > cookie.txt
+zsh: command not found: $
+sooyoo@Soos-MBP sweets % $ cat>cookie.txt
+zsh: command not found: $
+sooyoo@Soos-MBP sweets % /tmp$ cat > cookie.txt
+zsh: no such file or directory: /tmp$
+sooyoo@Soos-MBP sweets % $ > cookie.txt
+zsh: command not found: $
+sooyoo@Soos-MBP sweets % $ touch blank file 
+zsh: command not found: $
+sooyoo@Soos-MBP sweets % touch cookie.text
+sooyoo@Soos-MBP sweets %  
+
+
+
+### Step 3G
+sooyoo@Soos-MBP sweets % touch cookie.text
+sooyoo@Soos-MBP sweets % mv cookie.txt donut.txt
+sooyoo@Soos-MBP sweets % 
+
+
+### Step 3H
+sooyoo@Soos-MBP sweets % cd ~
+sooyoo@Soos-MBP ~ % cd desktop
+sooyoo@Soos-MBP desktop % cd unit1-git-practice
+sooyoo@Soos-MBP unit1-git-practice % $ thing.txt
+zsh: command not found: $
+sooyoo@Soos-MBP unit1-git-practice % touch thing.txt
+sooyoo@Soos-MBP unit1-git-practice % 
+
+### Step 3I
+sooyoo@Soos-MBP unit1-git-practice % cp thing.txt tofu.txt
+
+### Step 3J
+sooyoo@Soos-MBP unit1-git-practice % mv tofu.txt proteins
+sooyoo@Soos-MBP unit1-git-practice % 
+
+### Step 3K
+sooyoo@Soos-MBP unit1-git-practice % mv crab.txt proteins
+sooyoo@Soos-MBP unit1-git-practice % cd proteins 
+sooyoo@Soos-MBP proteins % mv crab txt meats
+mv: rename crab to meats/crab: No such file or directory
+mv: rename txt to meats/txt: No such file or directory
+sooyoo@Soos-MBP proteins % mv crab.txt meats
+
+### Step 3L
+sooyoo@Soos-MBP proteins % cd ~
+sooyoo@Soos-MBP ~ % pwd
+/Users/sooyoo
+sooyoo@Soos-MBP ~ % cd desktop
+sooyoo@Soos-MBP desktop % cd unit1-git-practice
+sooyoo@Soos-MBP unit1-git-practice % rm thing.txt
+
+
+### Step 3M
+
+
+### Step 3N
+
+
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***

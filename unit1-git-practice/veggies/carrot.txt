@@ -1,0 +1,16 @@
+
+git reset --soft HEAD~
+git reset --hard
+wq
+git status
+[sooyoo@Soos-MBP
+:wq
+<Esc>:wq
+<Esc>ZZ
+git config --global core.editor "command to start sublime text 2"
+
+
+git reset <sha1 of commit>
+$git reset <sha1 of commit>
+$ git reset <sha1 of commit>
+$ git reset --softHead-hard
